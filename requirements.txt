@@ -3,3 +3,4 @@ pandas
 streamlit
 scikit-learn
 joblib
+altair==4.2.2
